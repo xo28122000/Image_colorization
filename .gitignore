@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# custom
+
+data/bwimg
+data/coloredimg
+.DS_Store
